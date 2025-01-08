@@ -22,24 +22,24 @@ The Honeypot Project aimed to set up and deploy a honeypot using Teapot on the V
 </ul>
 
 ## Steps
-<b>Set Up Vultr Cloud Server</b>
+<b>Set Up Vultr Cloud Server</b><br>
 Deploy a virtual machine on Vultr with sufficient resources (e.g., 4 vCPU, 8GB RAM, 160GB SSD).
 Install the T-Pot multi-honeypot platform.
 Configure T-Pot
 
-Set up the honeypot services (e.g., Cowrie, Honeytrap, Dionaea).
+<b>Set up the honeypot services</b><br>
 Configure the firewall to control access and protect the honeypot.
 Monitor and Collect Data
 
-Use T-Pot’s Elastic Stack (Elasticsearch, Logstash, Kibana) to capture and store attack telemetry.
+<b>Use T-Pot’s Elastic Stack to capture and store attack telemetry.</b><br>
 Ensure real-time monitoring of attacks via Kibana dashboards.
 Analyze Attack Data
 
-Examine visualizations in Kibana, such as attack trends, geographic locations, and IP reputations.
+<b>Examine visualizations in Kibana, such as attack trends, geographic locations, and IP reputations.</b><br>
 Use CyberChef for deeper analysis of raw data.
 Generate Reports
 
-Summarize attack patterns, sources, and vulnerabilities targeted.
+<b>Summarize attack patterns, sources, and vulnerabilities targeted.</b><br>
 Provide insights on attacker behavior and potential mitigation strategies.
 
 ## Screenshots
