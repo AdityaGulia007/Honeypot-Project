@@ -22,8 +22,7 @@ The Honeypot Project aimed to set up and deploy a honeypot using Teapot on the V
 </ul>
 
 ## Steps
-Set Up Vultr Cloud Server
-
+<b>Set Up Vultr Cloud Server</b>
 Deploy a virtual machine on Vultr with sufficient resources (e.g., 4 vCPU, 8GB RAM, 160GB SSD).
 Install the T-Pot multi-honeypot platform.
 Configure T-Pot
