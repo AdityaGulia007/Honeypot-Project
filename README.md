@@ -4,11 +4,13 @@
 The Honeypot Project aimed to set up and deploy a honeypot using Teapot on the Vultr cloud platform. The goal was to capture and analyze cyberattack data while demonstrating proficiency in honeypot deployment, firewall configuration, and data analysis through visualization tools like Kibana.
 
 ### Skills Learned
-Learned how to deploy and manage a multi-honeypot system effectively.
-Gained experience in configuring firewalls to control access and improve security.
-Analyzed attack data to identify patterns, track sources, and assess IP reputations.
-Developed a better understanding of cloud platforms and virtualization tools.
-Improved my ability to spot trends in global cyberattacks and interpret data through dashboards.
+<ul>
+  <li>Learned how to deploy and manage a multi-honeypot system effectively.</li>
+  <li>Gained experience in configuring firewalls to control access and improve security.</li>
+  <li>Analyzed attack data to identify patterns, track sources, and assess IP reputations.</li>
+  <li>Developed a better understanding of cloud platforms and virtualization tools.</li>
+  <li>Improved my ability to spot trends in global cyberattacks and interpret data through dashboards.</li>
+</ul>
 
 ### Tools Used
 T-Pot: Multi-honeypot platform for capturing and analyzing attack data.
