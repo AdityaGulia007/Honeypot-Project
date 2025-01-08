@@ -25,7 +25,7 @@ The Honeypot Project aimed to set up and deploy a honeypot using Teapot on the V
 ## Steps
 ![1718589034642](https://github.com/user-attachments/assets/eb660db3-ef00-4161-8ae1-f1df3fd648fc)
 ![1718589041169](https://github.com/user-attachments/assets/b4605fdb-ada5-4177-a1e0-af98b2df382d)
-![1718589063361](https://github.com/user-attachments/assets/5d764741-d804-437d-815e-72c5a8da4796)
 ![1718589050296](https://github.com/user-attachments/assets/cc64cc0b-a18d-456f-8d46-c5b38daa8922)
+![1718589063361](https://github.com/user-attachments/assets/5d764741-d804-437d-815e-72c5a8da4796)
 ![1718589057116](https://github.com/user-attachments/assets/bef8c8e5-8bd2-424f-a7ea-88be68c4d866)
 
