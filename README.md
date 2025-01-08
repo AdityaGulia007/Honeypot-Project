@@ -26,6 +26,7 @@ Image-1 Vultr cloud platform control panel showing the deployment details of a T
 ![1718589034642](https://github.com/user-attachments/assets/eb660db3-ef00-4161-8ae1-f1df3fd648fc)
 <br>Image-2 T-pot is being installed on the virtual machine that is being run on vultr.<br>
 ![1718589041169](https://github.com/user-attachments/assets/b4605fdb-ada5-4177-a1e0-af98b2df382d)
+<br>Image -3 This is the image of OS that the user interacts with to use the honeypot.<br>
 ![1718589050296](https://github.com/user-attachments/assets/cc64cc0b-a18d-456f-8d46-c5b38daa8922)
 <br>Image-4 This is a Kibana dashboard visualizing data from the T-Pot honeypot. It includes metrics such as the number of attacks and visual representations like histograms, graphs, and a geographical attack map.<br>
 ![1718589063361](https://github.com/user-attachments/assets/5d764741-d804-437d-815e-72c5a8da4796)
