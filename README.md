@@ -24,6 +24,7 @@ The Honeypot Project aimed to set up and deploy a honeypot using Teapot on the V
 ## Steps
 Image-1 Vultr cloud platform control panel showing the deployment details of a T-Pot honeypot server, including location, resources, and bandwidth usage.<br>
 ![1718589034642](https://github.com/user-attachments/assets/eb660db3-ef00-4161-8ae1-f1df3fd648fc)
+<br>Image-2 T-pot is being installed on the virtual machine that is being run on vultur.<br>
 ![1718589041169](https://github.com/user-attachments/assets/b4605fdb-ada5-4177-a1e0-af98b2df382d)
 ![1718589050296](https://github.com/user-attachments/assets/cc64cc0b-a18d-456f-8d46-c5b38daa8922)
 <br>Image-4 This is a Kibana dashboard visualizing data from the T-Pot honeypot. It includes metrics such as the number of attacks and visual representations like histograms, graphs, and a geographical attack map.<br>
