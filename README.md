@@ -26,9 +26,9 @@ Image-1 Vultr cloud platform control panel showing the deployment details of a T
 ![1718589034642](https://github.com/user-attachments/assets/eb660db3-ef00-4161-8ae1-f1df3fd648fc)
 ![1718589041169](https://github.com/user-attachments/assets/b4605fdb-ada5-4177-a1e0-af98b2df382d)
 ![1718589050296](https://github.com/user-attachments/assets/cc64cc0b-a18d-456f-8d46-c5b38daa8922)
-Image-4 This is a Kibana dashboard visualizing data from the T-Pot honeypot. It includes metrics such as the number of attacks and visual representations like histograms, graphs, and a geographical attack map.</br>
+<br>Image-4 This is a Kibana dashboard visualizing data from the T-Pot honeypot. It includes metrics such as the number of attacks and visual representations like histograms, graphs, and a geographical attack map.</br>
 ![1718589063361](https://github.com/user-attachments/assets/5d764741-d804-437d-815e-72c5a8da4796)
-Image-5 Another Kibana dashboard view, focusing on Cowrie honeypot data. It displays pie charts that break down attacker source IP reputation, attacks by country, and attacks by port. There's also a chart showing the top 10 Cowrie versions used in the attacks and another illustrating hashed IP data.</br>
+<br>Image-5 Another Kibana dashboard view, focusing on Cowrie honeypot data. It displays pie charts that break down attacker source IP reputation, attacks by country, and attacks by port. There's also a chart showing the top 10 Cowrie versions used in the attacks and another illustrating hashed IP data.</br>
 ![1718589057116](https://github.com/user-attachments/assets/bef8c8e5-8bd2-424f-a7ea-88be68c4d866)
 
 
