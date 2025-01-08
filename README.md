@@ -18,7 +18,6 @@ The Honeypot Project aimed to set up and deploy a honeypot using Teapot on the V
   <li>Vultr: Cloud service provider for deploying the honeypot.</li>
   <li>Kibana: Visualization tool for analyzing attack patterns, sources, and reputations.</li>
   <li>CyberChef: Swiss-army tool for data analysis.</li>
-  <li>Elastic Stack: Suite for querying and managing attack data.</li>
   <li>Firewall: Configured to control and monitor honeypot access.</li>
 </ul>
 
